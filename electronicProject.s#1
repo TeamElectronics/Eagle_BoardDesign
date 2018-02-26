@@ -11724,6 +11724,7 @@ Source: AVX .. aphvc.pdf</description>
 <pinref part="C7" gate="G$1" pin="1"/>
 <wire x1="157.48" y1="60.96" x2="157.48" y2="68.58" width="0.1524" layer="91"/>
 <junction x="157.48" y="68.58"/>
+<label x="91.44" y="22.86" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="N$3" class="0">
